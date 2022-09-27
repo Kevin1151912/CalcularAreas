@@ -11,6 +11,7 @@ package Model;
 public class Circulo extends FiguraGeometrica{
     
     private Integer radio;
+    
 
     public Circulo(Integer radio) {
         this.radio = radio;

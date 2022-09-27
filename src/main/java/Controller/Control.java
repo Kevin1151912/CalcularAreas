@@ -22,6 +22,7 @@ public class Control implements ActionListener {
     private Rectangulo rectangulo;
     private Triangulo triangulo;
     private Vista vista;
+    
 
     public Control(Circulo c, Rectangulo r, Triangulo t, Vista v) {
         super();

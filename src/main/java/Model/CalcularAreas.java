@@ -9,5 +9,5 @@ package Model;
  * @author kevin
  */
 public class CalcularAreas {
-    
+ 
 }

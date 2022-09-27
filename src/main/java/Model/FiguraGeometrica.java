@@ -17,4 +17,5 @@ public abstract class FiguraGeometrica {
         return "figuraGeometrica{" + "area=" + area() + '}';
     }
     
+    
 }
